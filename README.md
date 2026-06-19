@@ -91,7 +91,8 @@ All rolling stats are also computed as **home minus away differentials** (e.g. `
 - [x] Rest/fatigue features
 - [x] Differential feature engineering
 - [x] Final merged dataset (~5,000+ games, regular season + playoffs)
-- [ ] Model training (logistic regression baseline + gradient boosting)
+- [x] Logistic Regression Model Baseline 
+- [ ] Final Feature Set and Complete XGBoost Model
 - [ ] Calibration and evaluation
 - [ ] Live inference script
 
