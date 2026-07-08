@@ -2,6 +2,9 @@
 
 Real-time win probability estimation for NBA games using play-by-play data. This repo contains the full data pipeline and feature engineering — ingesting raw game events from the NBA API, reconstructing game state at every play, and building a labeled dataset ready for model training.
 
+Link to google drive containing relevant csv files of PBP data: https://drive.google.com/drive/folders/1he02qWDKJIXzm5_etiwXgitQMy-wPLBY?usp=drive_link
+
+Includes full dataset, cleaned dataset, slimmed dataset (Used in model building and feature engineering), and final feature dataset used for XGBoost model
 ---
 
 ## What This Does
